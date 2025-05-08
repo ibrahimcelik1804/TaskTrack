@@ -18,4 +18,4 @@ Bu proje, **React Native CLI** kullanılarak geliştirilmiş bir **Todo** uygula
 
 ## 🎨 Proje Görseli
 
-<img src="https://github.com/ibrahimcelik1804/TaskTrack/blob/main/src/assets/images/Gorsel.gif" alt="Proje Görseli" width="300"/>
+<img src="https://github.com/ibrahimcelik1804/TaskTrack/blob/main/src/assets/images/Gorsel.gif" alt="Proje Görseli" width="300" />
