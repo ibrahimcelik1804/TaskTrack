@@ -17,5 +17,5 @@ Bu proje, **React Native CLI** kullanılarak geliştirilmiş bir **Todo** uygula
 - **React Native SVG** – SVG formatındaki ikonlar ve grafikler için kullanıldı.
 
 ## 🎨 Proje Görseli
-
+https://github.com/ibrahimcelik1804/TaskTrack/blob/main/src/assets/images/Gorsel.gif
 ![todo Preview](assets/images/Gorsel.gif)
